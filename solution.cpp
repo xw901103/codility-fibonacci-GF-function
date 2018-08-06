@@ -24,8 +24,8 @@ int solution(int A, int B, int N) {
             back = (front + back) % MOD_V;
             front = temp;
           }
+          return back;
         }
-        return back;
     }
     return -1; // N should not be negative
 }
