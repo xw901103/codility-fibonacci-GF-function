@@ -1,7 +1,5 @@
 # codility-fibonacci-GF-function
 
-Codility question used in Rakuten interview
-
 A function GF is defined as follows
 
     GF(A, B, 0) = A;
